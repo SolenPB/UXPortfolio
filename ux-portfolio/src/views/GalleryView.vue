@@ -1,17 +1,17 @@
 <template>
     <div class="home">
-      <Gallery />
+      <PortFolio />
     </div>
   </template>
   
   <script>
   // @ is an alias to /src
-  import Gallery from '@/components/Gallery.vue'
+  import PortFolio from '@/components/PortFolio.vue'
   
   export default {
     name: 'GalleryView',
     components: {
-      Gallery
+      PortFolio
     }
   }
   </script>

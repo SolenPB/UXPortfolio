@@ -1,7 +1,7 @@
 <script>
 export default {
-	name: 'Gallery',
-	props: ['picture']
+	name: 'PortFolio',
+	props: ['url', 'text']
 }
 </script>
 
