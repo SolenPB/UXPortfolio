@@ -5,5 +5,5 @@ export default {
 </script>
 
 <template>
-	<img src="">
+	<img src="../assets/tree-1611056_640.jpg">
 </template>
