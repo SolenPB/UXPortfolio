@@ -1,7 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Accueil</router-link> |
+    <router-link to="/about">À propos</router-link>
+    <router-link to="/gallery">Portfolio</router-link>
   </nav>
   <router-view/>
 </template>
@@ -22,7 +23,7 @@ nav {
     color: #2c3e50;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: blue;
     }
   }
 }

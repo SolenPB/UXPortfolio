@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <NavLink msg="Welcome to Your Vue.js App"/>
+    <NavLink />
   </div>
 </template>
 
